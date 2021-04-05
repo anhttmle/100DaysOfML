@@ -5,6 +5,7 @@
 
 - Thus, to obtain meaningful conclusions, we need to **reason** not just about what is **possible**, but also about what is **probable**.
 
+- Furthermore, one finds that probabilistic models are very liberating. Where in a more rigid formalism we might find it necessary to enumerate every possibility, here we can often sweep a multitude of annoying exceptions and special cases under the “probabilistic rug,” by introducing outcomes that roughly correspond to “something unusual happens.”
 
 
 # PART 2: 
