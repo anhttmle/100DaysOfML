@@ -10,7 +10,7 @@
 -   Flag labeler disagreements
 -   ...
 
-## Challenge on labeling data:
+## Challenge on labeling data: (Solution is Tesla data engine)
 - Data labeling is highly non-trivial
 - Chasing Label/Data Imbalances is non-trivial
 - Labeling is an iterative process
@@ -19,7 +19,8 @@
 -   Escalation features
 -   Agreement checking
 -   Performance tests (model or labeler ?)
--   AI-assisted labeling
+-   AI-assisted labeling (new, relabel or clean dataset)
+-   What worth to label (from unlabeled data)
 
 ## Challenge on 2.0 stack:
 - The toolchain for 2.0 stack does not yet exist
